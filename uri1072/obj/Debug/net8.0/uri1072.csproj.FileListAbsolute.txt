@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\bin\Debug\net8.0\uri1072.exe
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\bin\Debug\net8.0\uri1072.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\bin\Debug\net8.0\uri1072.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\bin\Debug\net8.0\uri1072.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\bin\Debug\net8.0\uri1072.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\refint\uri1072.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\uri1072.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1072\uri1072\obj\Debug\net8.0\ref\uri1072.dll
